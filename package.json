@@ -1,0 +1,19 @@
+{
+  "name": "statistic_bot",
+  "version": "1.0.0",
+  "description": "My telegram bot",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Alexey Surnin <alxvagbar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.1",
+    "node-telegram-bot-api": "^0.57.0",
+    "nodemon": "^2.0.15",
+    "store": "^2.0.12"
+  }
+}

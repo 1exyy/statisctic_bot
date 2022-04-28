@@ -1,0 +1,9 @@
+{
+  "bot":{
+    "token": "1304875186:AAGS7oqHsEyya9cvECmksFJ3z4WHX4PDcyY",
+    "ownerID":"525442208"
+  },
+  "DB":{
+    "URI":"mongodb+srv://statistcBot:Mepeze72@users.3fyle.mongodb.net/users"
+  }
+}
